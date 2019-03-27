@@ -1,0 +1,2 @@
+p ARGV
+p "hogehoge"
